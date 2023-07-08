@@ -1,0 +1,590 @@
+[
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJjx-t1cZE0i0R9FBMGRkBhHM",
+        "phone": "",
+        "category": "",
+        "menu": "",
+        "hours": [],
+        "website": "",
+        "checkout": "",
+        "address": "",
+        "bookingLink": "",
+        "photos": [],
+        "price": 0,
+        "place_id": "ChIJjx-t1cZE0i0R9FBMGRkBhHM",
+        "compound_code": null,
+        "business_status": null,
+        "location": {
+            "lat": -8.7815919,
+            "lng": 115.1787738
+        },
+        "name": "Kuta Selatan",
+        "types": [
+            "locality",
+            "political"
+        ],
+        "vicinity": "Kuta Selatan",
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJcRnJZA9D0i0RgvoPKPSJPJg",
+        "phone": "+62361778333",
+        "category": "",
+        "menu": "",
+        "hours": [],
+        "website": "http://www.balirelaxing.com/",
+        "checkout": "Check-in time: 14:00",
+        "address": "Address: Jl. Pratama No.62, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QynDdrsHusdBdaTuiPpkSXv4IxBL9qKL_eJUksn0sSO1971F8CL61laNOYHjItf26vbbRddMBtV11-eAAmBKL9oVvsbiTO8rqG3iSBhOLPLcemosPkjcaIKREJA4W1k_pLRKYz33e6PmIg3qdFkI9j1tvQz4qXUMcyKnCAwv3f_iZMlz_FVCY=w203-h134-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0Q1Bo2p52WJsFbat38Apc6OeRb8RyhAImvoRXic7aNEQYuQ8rjPDltB9tFgvNjexNu85DpGVy0i9nLKcfxRbLS9bgzp75WeaZ8tAdFXgapSyED1JQsR-Nl_RIgxhRD7UccscQjVZqXE3Bn8grQaE1TRyVWEY3UE81f75jW3-rJIYO24sGyvBNI=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPkJlYjmf6felqTGwVL-RFdCYv1y9yARM0aIVN1=w203-h203-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0R2W27sgdnfePvTySZLSyurOnmSmzI5GoD8FPbebnRbxtjiCpf58DkQulwMemKatXacUEDy9XVxcQrLqckK20dWEVMfsrHkzu8S2zFn94GiiO8fFstT-YMorIDGdJ1-LoBJ4jM4ddrCPY0e5fRBPfyaxze4y5zqob0-ibA9CKBR7u7xuPluCSQvuw=w203-h158-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0Sl_FYJN1IQOCZvJJZcsaYya_g6vrdqKjYtn5Wv01_QuI_zjfqC0M6OhZ-3JONWSvT26s5FxpaoIdCkCaOjnArZj3Q2wjNhmqLzrjsNS2vFzXTKSke9EOwGxKz54HwEiO07pMoubXjNUwZCR48_UVLA8ReA306uzXyV1iaouuMA4Q0DrjBp5w8Xkw=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNDnJMvEDQUOXR7gfRTuIHqHeCxe9Yl1OgntmWR=w203-h135-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QKd1gQNkYptiES55wqz_STpNNKzTh5-kXqPxdN7yEPyiyVBqQIOcFI9CsszcN1hPWpp5rqqusyRvFlM-yGUXAglQtMMbmEupQEvlVsw1sevxq_sKD5jD7NszDMORiaJh-R-6AjKwQEwwB7angbeKK3Jf5dPo_U97QDLJTF5OuxSiQmgY8K_V4=w203-h134-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0TxKsL6ssQz-ZmJZebT-tR5BwMr4w8kubEUz67DCJUEiVQZN3_gPHzmR-83_3edbm2uJUN9b-itDrUae3iSemikrgWzWmVpkNZYk_K8ipzIzLDGccScLvjUstz8zE6tVaumTnrkNsr0MlbTvz42SLNSDsVUMUWJcfxsx6HtP-axjL6kgqLnsP5Heg=w203-h142-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMGfUNqTUIEJVE2_LZmmje406YF9iKisFH4a9KJ=w203-h270-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RbVu-Z1MCtZ3ZjkJOOn5weeJEbe7gjBW4xuqEx1Y1D_vZVj2J8Clar2OsB4MqKZ1lXW5vOsQ2p1nR92xbylj0cOO-AWMR1oSURSpxLEQsPDAjaBniBxKB01lDC7LEiOeknoOfWGKsNGy9iGP4Bly6PSiH7Gl3tyO3WtdIyoY75olPXHZjsqYXl=w203-h158-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0Q6SpyesT3_B2qMxvpUUVhvrv1_M7sQmd0oSTLOowZkZMnQqQG77KvdGphTbvJ8H5uoELNx6YFdD_EeRyigOZbc6CAc6MpgHp0Lww1bR6YWi-kY8PzWrOTMoG1MhIo_UH9iUCukIXMekwQMxM1kjV9n9mpXMXaiCFfYOfM1Im1cPeR3RheB=w203-h134-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0Tb4xvu_-ldKftdx3ZeO-QCZh0tJjse-Q2_UIl5SJkeGcAbUvy7Didw5NuLmowra0X0XuAZqf1K2CbxYnAHUSXMYPcvW3HG2KEWa2dTIp8NsQ1FiIVrzjbAGPYLpd6HwNCAQdjriMSaGcQIvd-UPlwUkKj-7s1o7BjhHoYqBdc51nsKsdy0o96U=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMVwbIrPR1MJMOrb8UVIU26d8zCE_i1v3IPqLlm=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPsDvXKv_qcohy7yPyW72v-DfQ54CvuIyvP097H=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPL66F4K9Kn-ehreZBfVuenub_gfo6dI3_c5TYD=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNJcnoL9kcLuieaq1ofRYBnh0SSbVo6OsNcBKHH=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPRk5dW5dEqDxdDWJ2TJSjGjbM0jUx_fbxqe-8k=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMk5bFgINC1PpzDZpTIY3TTo1JYfgytzF-M_4ZV=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPJ-Scmxi97OHaWIV2eolqSnlPBzLPiO4qcuEEH=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP5n2dyynZ3Yjk9aLwfDrzhx3czBIsK4flOgrvw=w203-h360-k-no"
+        ],
+        "price": 806316,
+        "place_id": "ChIJcRnJZA9D0i0RgvoPKPSJPJg",
+        "compound_code": "66CF+VJ Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.7778115,
+            "lng": 115.2240081
+        },
+        "name": "Bali Relaxing Resort & Spa",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Pratama No.62, Benoa",
+        "rating": 4.4,
+        "user_ratings_total": 879
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJwTo9bQVD0i0RaAj0m9wyU9U",
+        "phone": "",
+        "category": "Wedding chapel",
+        "menu": "",
+        "hours": [],
+        "website": "http://www.conradbali.com/weddings/our-unforgettable-weddings/infinity-chapel.html",
+        "checkout": "",
+        "address": "Address: Jl. Pratama No.168, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipPU_MNtoCSpzTJnB1rI_20yY9TpUjV8Xs9psdaF=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMlJpKXkcs94yBUvXon_mZO9b_ogYVcNlzT9Fbh=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOyxPv2IpilBBegLlUiPdTSAeD6ig490_lUWEZo=w203-h304-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPxNRUypaUYcR5Li2TPZZeJeowRqxI7iu7btgHR=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOa9BHVXebfbafIhYL8QUCZstgA9_2SsjWH58Nw=w203-h441-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPx8Q3uIHfK03V9ILsHwHJ4B28dkkrYLRMrxsE6=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipO65xH2c0YWIi1TpFw5oLCMSaKmWhM22zbRb147=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMmmEbWZvmHc-pEMscdnqtBLpiBxlxLy3um2cp6=w203-h303-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOovrHrTYcs-mAQHvhBVnIP3Xvqn7niIsUScsjj=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNsTZdRACcAO3l8WTOEQO1nC2ECOIilXHkZSqrn=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMyNcpwGfJmOUQDy5xKm3UFoAeF99eL0UM8j36k=w203-h252-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNtoJue_4yRn1sEJ8B16_-ZeF4Ve3C8vlJHakJM=w203-h441-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP3xCN-4KfBwAWYrqz78DPlrV_k7R5s6SEYOb8L=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPFvEcIJrRWBXW-CNENH2dMCBMvQySKZz7BD9UJ=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNcGENtN4-wGzIGSNEjQe7UpifGJaFg7fpArYwF=w203-h253-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP27BIp6npOkpC5uwu7y0oUHceI-lzsin0PiNW_=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPl-5M3hY4Wsfyz21Ua2QA3YMr-deHnUDzzYPmS=w203-h265-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMi22CGv6fx48XHA1o3WmiDoP3MGfFEe_TXZslO=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPZY-rjW6nas1nBHH9yonK1iiG-2oN1jOYYWHCM=w203-h417-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOrsHCtUCJQh6q4ZtGrmNLyX1uoHLc5LOIw2KTq=w203-h135-k-no"
+        ],
+        "price": 0,
+        "place_id": "ChIJwTo9bQVD0i0RaAj0m9wyU9U",
+        "compound_code": "66CG+9C Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.779073499999999,
+            "lng": 115.2260483
+        },
+        "name": "Infinity Chapel",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Pratama No.168, Benoa",
+        "rating": 4.7,
+        "user_ratings_total": 159
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJPQELaAVD0i0RwzKkf4C0L8A",
+        "phone": "",
+        "category": "Spa",
+        "menu": "",
+        "hours": [
+            {
+                "day": "Monday",
+                "open_time": "9 AM",
+                "close_time": "10 PM"
+            },
+            {
+                "day": "Tuesday",
+                "open_time": "9 AM",
+                "close_time": "10 PM"
+            },
+            {
+                "day": "Wednesday",
+                "open_time": "9 AM",
+                "close_time": "10 PM"
+            },
+            {
+                "day": "Thursday",
+                "open_time": "9 AM",
+                "close_time": "10 PM  Hide open hours for the week"
+            },
+            {
+                "day": "Friday",
+                "open_time": "9 AM",
+                "close_time": "10 PM"
+            },
+            {
+                "day": "Saturday",
+                "open_time": "9 AM",
+                "close_time": "10 PM"
+            },
+            {
+                "day": "Sunday",
+                "open_time": "9 AM",
+                "close_time": "10 PM"
+            }
+        ],
+        "website": "http://www.conradbali.com/spa-wellness.html",
+        "checkout": "",
+        "address": "Address: Jalan Pratama 168 Level 2 and 3, Benoa, South Kuta, Badung Regency, Bali 80361 ",
+        "bookingLink": "https://ap.spatime.com/crbl168/5039128/home",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipOG2iAewMaYbKvoJJMAKTetYydEij_g16wclkhB=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipM4EbXn2actugP5JmhbOb9oRuItUHvZgcnBHI2m=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP0QkygNkiSfU5UtVn2Pw3YMCUVUvNiGuikIEIz=w203-h134-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipM7QwAoBO_QDZ9dg58p71463R24TSfo-TlEto2X=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMP0Ff4To9JCUL_iRMuxE0iotIAOvUmxJcYvEC9=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMa7ng8Pc90wwlzLl9kBo0oGbm5D7kmjFYyz55J=w203-h304-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipO4XZT-M7pAw3TEgi3SsKyevfgPZBuHBjC12WV6=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNSnxmtI09_IuqfN1tqSyZIqpGKaXuEZxJ7S7rE=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNJ9Qbaekw8H2KjiL-gUzxpxCwJP5yoqR1namoL=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPEsbGUai-xATiHiBSY85SueBX6iBZdlLOC9c2d=w203-h304-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNSNKApckouxkSznl5PNA8Hhbhm3TGELdH683Ta=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOnhaOBIMNOrYmZymzq2uovFzMF1_n2T5W1GBft=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPWFLq6coFSkvMnSn-7b-jlfNE9tXyjMwFpHWsA=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOiklvUav2lNXyQ48_X7M8rt3WWjl6sZx6jfzOE=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNeEwBnHRtA7WT43bB1v32H1qwQkwkel5ZxveyA=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNLnyQEHDFcGk9ZryI6jAHYQZ5nPuKb3nXcgsoT=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNqQG1rRoCYY0F1ov9ZgBJWsApNI9QL8nZj8qro=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipM3FrzwyrWZj8rkpVevxXA_c7xJc1YfPNbsPr02=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNUvdNHMuC0j9uzETIxkafLoJaQwhaObnT3tZoO=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMeA_SzpklVJvnTjBkU3iD_5rr2vvZgY5m9QHmi=w203-h152-k-no"
+        ],
+        "price": 0,
+        "place_id": "ChIJPQELaAVD0i0RwzKkf4C0L8A",
+        "compound_code": "66CG+52 Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.779582399999999,
+            "lng": 115.2251231
+        },
+        "name": "Jiwa Spa",
+        "types": [
+            "spa",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Pratama 168 Level 2 and 3, Benoa",
+        "rating": 4.7,
+        "user_ratings_total": 12
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJj3JXUTtD0i0RzUQZaHJndOs",
+        "phone": "+6285574671004",
+        "category": "",
+        "menu": "",
+        "hours": [],
+        "website": "",
+        "checkout": "Check-in time: 14:00",
+        "address": "Address: Jl. Pratama No. 62, Tanjung Benoa, Benoa, South Kuta, Nusa Dua, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipO6MfM_eCxxS8HSt9xWzP9oFtZp1x8vwCQfxPso=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNPl3cJZAo3zfMhIjwbMmnLTRM2iF1txFk2AnnH=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPeFBJiIXiXi-eDz6CiCZFmksfsuKTmw6QIWO_s=w203-h114-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0TDzsbgwXXz2JymPos23TBes2KM_-fU5mYArr_zgugvGgA6aDYOaeqI-VJ2hyOyGd5hn-_Fqm-NjuJKESK15LepT0R-yAMyqWWYwQvsB3yx5hmMHmDE2fSE0WdbCtRt14RW9BNgQhDIoExEjb7Q-7uVN5V-HwdVVzSgn1yBs-obkwPHfPDZhcl0=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOwN4k3MOtHaLh7xiQ9X7HKxCa6EufV6YSa3f11=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMoXgDgEBVoVnf87ucMfNNynBwy5sF4Ie8WIRfL=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOAtP8OnmQPapzE6wCX1uF-S5KgVUuxErWZW_S7=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNRSM5stWbTUcwt-KWPQ-jFF0m14S_Pr8-ZrZmN=w203-h135-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOVXkQL0Sj37gcCs5Dri2iM2Qkl6PUxEdXduTn4=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPHLgDYxpR59BAds-lq3foeA3AWVhjqFzlgycMM=w203-h114-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RIJm2cV5wgzGwuUPaSGA6fkayjb4BBumYL97xOrq4gKJn5wW2naSqoRYbMmbHjf_K59LJfdmof744yeXYdDip4zx74_zwQuMoxz-W47_eqsz2jYk6bhGqwOcj7hRwjCssKljfGaB68ULcWBR1I4SLlK8RRVZ-gesBIqm6GVbjayJ1L5U6cSs91=w203-h135-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0T-8gtiw8Mls78isOE8HC9yOCoqMrwkuuNfH3FpPX7TrwUSxqo0VOirruacgEJjJTmQWn6A46DUIIe_EiH_0tt1OiHGI-7mYz71ywQV5m_J1T3MQX2-8ASp_Ea3qfvC8zlWoMQghXIWXx-xrBgFezR37-zAWWYpQhcB9fjscvqLvAac0FKFPd5R=w203-h135-k-no",
+            "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0Txh10b7pMlsFzEhvyvTjn4M5EsvTQsxTc-a2pqHMF5nWl96FHdqb94qpjRYpa-ZhO27OtAr3HMzxoHgl8145vUfFfPGrBtsmbQeXNrJo43QSmJs7rrWCUcLRPgE-U4dXTY6PiQXBO3XpL07mb8E74XsNiTZgXFTPWwYhlBe_S5iIMgSZll6Qtt=w203-h135-k-no",
+            "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tpw51aTljbchVOTYRciIOg&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=71.628975&pitch=0&thumbfov=100",
+            "https://lh5.googleusercontent.com/p/AF1QipNt8ePg8Jcd5mzWuxRjDoO0UEyeYq_YvSSByV1I=w203-h360-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOuzXIEmaKQ7Rzhzkhn2zkFDb2DBmNVA1LYs_XR=w203-h360-k-no"
+        ],
+        "price": 0,
+        "place_id": "ChIJj3JXUTtD0i0RzUQZaHJndOs",
+        "compound_code": "66CF+RJ Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.7779106,
+            "lng": 115.2240118
+        },
+        "name": "ZEN Rooms Basic Tanjung Benoa Pratama",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jl. Pratama No. 62, Tanjung Benoa, Benoa",
+        "rating": 4,
+        "user_ratings_total": 1
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJsbTvUxVD0i0Ry-NkFgE6X4Y",
+        "phone": "",
+        "category": "Hindu temple",
+        "menu": "",
+        "hours": [],
+        "website": "",
+        "checkout": "",
+        "address": "Address: Jl. Pratama No.60, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipNliju6bIgDMskzpRvbrVNNc7TZ-m4xg6gPbSlI=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNr6bBZsBScvdIw2s6UrAYoSF7-QluNlJZsZjBB=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNXv1iIBaFsGO1AXBVmpiEtIZ7HxGJV3B3VOlLV=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNPjTDLYR17WGKXv0PU0O-Yzl_9WqBlDdfaQjcA=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMrqYIMuBXnZ_R9B9kYFVOuBAu5nrOhGHYo0wqf=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMW-TLhfwhNbLF6DjdDHu69u1YdlncoGI5gbvib=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNynMmMVzDQfNaTit7BpkxlwsRb4eRjdAa0lCbL=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNJIY3-jxo2umF1Yt3SQnr9HXyRylaJJFauhHSB=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPx6CCLprw5gEX4GIaoBG4wwM0iPAEwPwUZna3e=w203-h152-k-no",
+            "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4HS354nKq02r49kHuBGv3w&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=69.72667&pitch=0&thumbfov=100"
+        ],
+        "price": 0,
+        "place_id": "ChIJsbTvUxVD0i0Ry-NkFgE6X4Y",
+        "compound_code": "66CF+GW Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.778678899999997,
+            "lng": 115.2248244
+        },
+        "name": "Pura Dalem Dukuh Sakti",
+        "types": [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Pratama No.60, Benoa",
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJPYGia9pD0i0RgKZzneyQ6O4",
+        "phone": "+6281337530637",
+        "category": "Fishing pond",
+        "menu": "",
+        "hours": [
+            {
+                "day": "Monday",
+                "open_time": "8 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Tuesday",
+                "open_time": "8 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Wednesday",
+                "open_time": "8 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Thursday",
+                "open_time": "8 AM",
+                "close_time": "9 PM  Hide open hours for the week"
+            },
+            {
+                "day": "Friday",
+                "open_time": "8 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Saturday",
+                "open_time": "8 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Sunday",
+                "open_time": "8 AM",
+                "close_time": "9 PM"
+            }
+        ],
+        "website": "",
+        "checkout": "",
+        "address": "Address: 66CF+HV7, Benoa, South Kuta, Badung Regency, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipOZHf4vmiBrrOvOKrwyPqdcWQiSZgbqIcdd0ept=w203-h360-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP6G1heyL-PS8bcFxmANUuwOF_zVPrYMKg4mGA8=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPh2LFLA4mfgbpp1RqviWzIgYCkg-QGO2StF4Ws=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOFUHKrT3x3DQ6A0U1kgeEnRxdocja6t2iiTAdS=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMBqnzKZhwu8zuvQGrYiy9mHAjsU7SeaP49IqOS=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMXFWqHN3YPUrVphWLi6RkbhZnlZpqKpccOxvcK=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOt_mD5AMHNEzRUvtPIykMS1BCIGnmaBedItB2U=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPXZRCItv1TM7jJ17_fIxSq55leVlf7CaTRD9b0=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMmUGva6x2tqUHHpqkPmEtLOs_j_HmuJSh8iuJN=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipN3uYUdCEHTa1nc5c8e-1szvLbBt_W6POXJQcNp=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMxJ_fvX_Uvkyj4ma1LXrV2S3ayb88XWFEA3taS=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipN8cexLXv_puCnBNPLiuO-xB41ctyITL1-aHxla=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOsedutqKj0wMVcl1NwsBL-9VrrfxGe-UruUBa_=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMS_ZC0JCQQp2U-x3HEtFOfTLkJON0pLPTy5tbi=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMX4vMVjy41vy4iyBfZtunbgHV5BXeLxDA7mcJt=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP0i_9cJdc_zDrs24VcA8eUQsWtzhaO8zKj6aE9=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPlJ8_-GWRuSibQGtstyFkYtIb6SR91izmNGtz4=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOEyNx0_PxfIlQRwzbz894JUtawlwwQUoxeDCJB=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNNYeCj4c8mgdD77DyXSLhydbnHisbqJMyb6W0Z=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNySpelCPsSBUgzsJVLLzHxOG6ypW2ZlOIoA769=w203-h152-k-no"
+        ],
+        "price": 0,
+        "place_id": "ChIJPYGia9pD0i0RgKZzneyQ6O4",
+        "compound_code": null,
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.778597899999998,
+            "lng": 115.2246697
+        },
+        "name": "Bali Becik Lelanguan",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "66CF+HV7, Benoa",
+        "rating": 4.9,
+        "user_ratings_total": 7
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJAQAAjwVD0i0RWwSXk0pFPDU",
+        "phone": "+6282144805888",
+        "category": "Diving contractor",
+        "menu": "",
+        "hours": [],
+        "website": "http://xn--80aaaddge8aed2atb.xn--p1ai/",
+        "checkout": "",
+        "address": "Address: Jl. Pratama Jl. Nusa Dua No.62A, Tj. Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipM8ExG9QKjBVnvT5OqxLzBmiejKb-Ki-Ni_WOtE=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipON5n2mGA9IGrS01x-o9YM1L-Uv5F24eljXMR2P=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNuF5e5UWtCPOIc_xTJcho8kNyde5qWEbi3Y3OS=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPkl3HqxzV13ndcIhHqQEFU1-Uox4z8MhdYfdc6=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPonKGH7g4CphFXi3kF_jER4TONs_6KKwCoSupc=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMP0yey2aIjVmyUDma2j-sEQ4vzYp4d6WJesVW6=w230-h100-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP8xTs7zyPMAtX4K6YzKs9wLUzptKggt_3DADzU=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMpc4tkNSOmRHstgHlCrVLF17cgKafVHDtZq9bU=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNaCIeoe8ZmMgY5n3gAo694QgoIQY47FhHM8ZOE=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipN6-ekUy1qsMFCJTaPCNI4QvLoWUvEN052FzWq8=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNCjoR2VI8H1QOtzD_uHCOitEj631qM4_tX-HEW=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNueBdZB4LE7niOwHWVQDvQxVojrjA7nmZN8DjS=w203-h152-k-no",
+            "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hjF6GmzVnMuU7Fuh6JmOnQ&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=168.92897&pitch=0&thumbfov=100"
+        ],
+        "price": 0,
+        "place_id": "ChIJAQAAjwVD0i0RWwSXk0pFPDU",
+        "compound_code": "66CG+W2 Tanjung Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.777632100000002,
+            "lng": 115.225041
+        },
+        "name": "PT Makmur Jaya Selam",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Pratama Jalan Nusa Dua No.62A, Tanjung Benoa",
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJibazm69D0i0RDTi-pE2U4kg",
+        "phone": "+6281934336654",
+        "category": "Transportation service",
+        "menu": "",
+        "hours": [
+            {
+                "day": "Monday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            },
+            {
+                "day": "Tuesday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            },
+            {
+                "day": "Wednesday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            },
+            {
+                "day": "Thursday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            },
+            {
+                "day": "Friday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            },
+            {
+                "day": "Saturday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            },
+            {
+                "day": "Sunday",
+                "open_time": "12:00 AM",
+                "close_time": "11:59 PM"
+            }
+        ],
+        "website": "http://griyabalitours.com/",
+        "checkout": "",
+        "address": "Address: Jl. Pratama Gg. Bali Becik No.60B, Nusa Dua, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipNeuQR3D-Yb6JKBHiiVH39QzVfwC2H4-Ie8_JXt=w245-h100-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOa0B-VbLpjVBmP-s_kE8j8NOksFfY-7tWpe-Bz=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPmKj3OhePU0Hzla43Q_9Zmop0o-w-Gt-ZPrQXW=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMmH5JAl2AyDpNF3K5Zj9Qx6upZivgUF1T6aXFn=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOFnu13t05F-pNFRGI_gsPSt7dZn72Ke5QVC8qC=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNSP8A-fTi5aFW-e5JdGWtuCADYBU5OMr70AGql=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMyYssURxZ5sb14tGDpEgEMd5TDLsi9FBYgCfG7=w203-h360-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNeyD83r4ozfla004SYK3_TQeybNzWl5RqvkAKv=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOsnguOYLlO0QSSO-IGW9AAjCq1hK-QPUO-X7s3=w203-h104-k-no",
+            "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hmHHpIp9QuKbgMqfXaKWvw&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=16.96734&pitch=0&thumbfov=100"
+        ],
+        "price": 0,
+        "place_id": "ChIJibazm69D0i0RDTi-pE2U4kg",
+        "compound_code": "66CF+HR Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.7785035,
+            "lng": 115.2246171
+        },
+        "name": "Griya Bali Tours",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Pratama Gg. Bali Becik No.60B, Nusa Dua, Benoa",
+        "rating": 5,
+        "user_ratings_total": 11
+    },
+    {
+        "url": "https://www.google.com/maps/place/?hl=en&q=place_id:ChIJuUkxOU5D0i0R2KP51-muc9M",
+        "phone": "+6281337530637",
+        "category": "Car rental agency",
+        "menu": "",
+        "hours": [
+            {
+                "day": "Monday",
+                "open_time": "6 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Tuesday",
+                "open_time": "6 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Wednesday",
+                "open_time": "6 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Thursday",
+                "open_time": "6 AM",
+                "close_time": "9 PM  Hide open hours for the week"
+            },
+            {
+                "day": "Friday",
+                "open_time": "6 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Saturday",
+                "open_time": "6 AM",
+                "close_time": "9 PM"
+            },
+            {
+                "day": "Sunday",
+                "open_time": "6 AM",
+                "close_time": "9 PM"
+            }
+        ],
+        "website": "",
+        "checkout": "",
+        "address": "Address: Benoa, South Kuta, Badung Regency, Bali 80361 ",
+        "bookingLink": "",
+        "photos": [
+            "https://lh5.googleusercontent.com/p/AF1QipM0lHQrI3Xt4ChB8xFxdZ8OHnR5NIafwX801fNf=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNm-C8v0GDMlgITB6hETe_pRXU8ZC0yzEH_IJp3=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOHzWa_vwgJAXXeHGaQ4Ob01xuSHH-5m5or4v1s=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP36CJJqyDVFXnp8wkowOqTR7eVic4P7td7uDL1=w203-h361-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPAr2YwBM2A9QQL16dR1D_k2KrCeDR_5iMFZgt9=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNlrgeEvTgesKpENBASviSJSFl0O-9LGtz_M6UW=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMCpbbN3X7KwsEe163o3TLA4fmZPWQdlSPcWoe4=w222-h100-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipPdgXZoJsAkYEYWmEauH8A0vWc28AGvEOl0BzNk=w222-h100-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMYSfECmX0qd5uQkyPa9a2Fx__IzAFsnZ4Q3otU=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMHZMdMMqGw6hb0aJ45-pIULhbwhoixlVKtG4ru=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNnfTrDulmHCjy1kioZbEks1bYaiWjON2BNBjJ8=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNljOjSYtwjEzKwY1bxO_taeV80uIHhb-zHqgY=w203-h152-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipP3PHIbDey28GYJn4bbPF9aXIq6kqEIjzkRcDsC=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMz8QS-9oC7SDD6ZYRM8zlvzSt-XAtLWCA2i5F3=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOAvVziM65Z5_7VuIDVdE4UYp9-9714qEpGZSw_=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNFJDDLDUWRvegA1GIajz979YbqwKC6rtBMv5H8=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipNu9c1lNT-a04tvBBPHcFc6lgiJAeJ9oUPITX_p=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMycrjwsx15mAu3qN0obMZSD5kU70_4AI8jLNKA=w203-h114-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipMj--9Zr7RcAeUTJpmsfYMmTd-U1WBjQ4G401yP=w203-h270-k-no",
+            "https://lh5.googleusercontent.com/p/AF1QipOaAIKznKsI-gW6zOylPMxV84I2fl9hObQhFXb8=w203-h360-k-no"
+        ],
+        "price": 0,
+        "place_id": "ChIJuUkxOU5D0i0R2KP51-muc9M",
+        "compound_code": "66CF+HR Benoa, Badung Regency, Bali, Indonesia",
+        "business_status": "OPERATIONAL",
+        "location": {
+            "lat": -8.7785035,
+            "lng": 115.2246171
+        },
+        "name": "Bali Becik Car & Motor Bike Rental",
+        "types": [
+            "car_rental",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Benoa",
+        "rating": 5,
+        "user_ratings_total": 51
+    }
+]
