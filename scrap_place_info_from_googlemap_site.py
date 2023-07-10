@@ -22,6 +22,7 @@ from selenium.webdriver.chrome.options import Options
 from concurrent.futures.thread import ThreadPoolExecutor
 import selenium_async
 import asyncio
+import atexit
 
 executor = ThreadPoolExecutor(10)
 
@@ -396,20 +397,22 @@ def getPlaceInfo(id):
         return None
 
 
-index = 0
-step = 40000
+index = 100000
+step = 100300
+currentStep = index
+updatedData = []
+problem_paces_ids = []
 
 
 def debug_error():
     try:
-        with open('[{}-{}]-error-places.json'.format(index, step)) as f:
+        with open('data/[{}-{}]-error-places.json'.format(index, step)) as f:
             error_data = json.load(f)
-        with open('[{}-{}]-places.json'.format(index, step)) as f:
-            data = json.load(f)
 
-        errors = error_data[0:1]
+        data = []
+        new_erorr = []
 
-        for r in errors:
+        for r in error_data:
             print("****************PROCESSING_DEBUGER****************", r["place_id"])
             newData = getPlaceInfo(r["place_id"])
             if newData:
@@ -418,60 +421,26 @@ def debug_error():
                 data.append(merged_dict)
                 print("Data from google:", newData)
                 # remove from errors-file
-                error_data = [dict_ for dict_ in arr if dict_ != r]
-
             else:
+                new_erorr.append(r)
                 print("******************PLACE_NOT_ADDED_DEBUGER*************", r["place_id"])
 
     finally:
-        with open('[{}-{}]-places.json'.format(index, step), 'w') as f:
+        with open('[{}-{}]-fixed-places.json'.format(index, step), 'w') as f:
             json.dump(data, f, indent=4)
         with open('[{}-{}]-error-places.json'.format(index, step), 'w') as f:
-            json.dump(error_data, f, indent=4)
+            json.dump(new_erorr, f, indent=4)
         driver.quit()
 
 
-# async def process_place(r, loop, updatedData, problem_paces_ids):
-#     print(f"****************PROCESSING-****************\n", r["name"])
-#     newData = await loop.run_in_executor(executor, getPlaceInfo, r["place_id"])
-#     if newData:
-#         merged_dict = {**newData, **r}
-#         updatedData.append(merged_dict)
-#         # print("********************************\n")
-#     else:
-#         r["url"] = "https://www.google.com/maps/place/?hl=en&q=place_id:{}".format(r["place_id"])
-#         problem_paces_ids.append(r)
-#         print("******************PLACE_NOT_ADDED*************:", r["name"])
+def save_data():
+    with open('[{}-{}]-places.json'.format(index, currentStep), 'w') as f:
+        json.dump(updatedData, f, indent=4)
+    with open('[{}-{}]-error-places.json'.format(index, currentStep), 'w') as f:
+        json.dump(problem_paces_ids, f, indent=4)
 
 
-# async def main(index, step):
-#     with open('./data/not_closed_points.json') as f:
-#         data = json.load(f)
-
-#     arr = data[index:step]
-#     start_time = time.time()
-#     updatedData = []
-#     problem_paces_ids = []
-
-#     loop = asyncio.get_event_loop()
-#     for i, r in enumerate(arr):
-#         await process_place(r, loop, updatedData, problem_paces_ids)
-
-#     end_time = time.time()  # End time
-
-#     elapsed_time = end_time - start_time
-#     print("\n\nElapsed time: ", elapsed_time, "seconds\n\n")
-#     with open('[{}-{}]-places.json'.format(index, step), 'w') as f:
-#         json.dump(updatedData, f, indent=4)
-#     with open('[{}-{}]-error-places.json'.format(index, step), 'w') as f:
-#         json.dump(problem_paces_ids, f, indent=4)
-
-# if __name__ == "__main__":
-#     try:
-#         asyncio.run(main(index, step))
-#     except Exception as e:
-#         print("****************MAIN_ERROR***************")
-#         print(e)
+atexit.register(save_data)
 
 
 if __name__ == "__main__":
@@ -485,11 +454,10 @@ if __name__ == "__main__":
 
         arr = data[index:step]
         start_time = time.time()
-        updatedData = []
-        problem_paces_ids = []
 
         for i, r in enumerate(arr):
-            print(f"****************PROCESSING-{i +1}****************\n", r["name"])
+            print(f"****************PROCESSING-{step + i}****************\n", r["name"])
+
             newData = getPlaceInfo(r["place_id"])
             if (newData):
                 merged_dict = {**newData, **r}
@@ -500,6 +468,8 @@ if __name__ == "__main__":
                 problem_paces_ids.append(r)
                 print("******************PLACE_NOT_ADDED*************:", r["name"])
 
+            currentStep = step + i
+
         end_time = time.time()  # End time
 
     except Exception as e:
@@ -509,9 +479,9 @@ if __name__ == "__main__":
     finally:
         elapsed_time = end_time - start_time
         print("\n\nElapsed time: ", elapsed_time, "seconds\n\n")
-        with open('[{}-{}]-places.json'.format(index, step), 'w') as f:
+        with open('[{}-{}]-places.json'.format(index, currentStep), 'w') as f:
             json.dump(updatedData, f, indent=4)
-        with open('[{}-{}]-error-places.json'.format(index, step), 'w') as f:
+        with open('[{}-{}]-error-places.json'.format(index, currentStep), 'w') as f:
             json.dump(problem_paces_ids, f, indent=4)
         driver.quit()
 

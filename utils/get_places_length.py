@@ -1,7 +1,7 @@
 import json
 
 
-with open('../data/not_closed_points.json') as f:
+with open('../data/[0-40000]-error-places.json') as f:
     data = json.load(f)
 
 
